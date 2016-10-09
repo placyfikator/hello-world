@@ -1,5 +1,5 @@
 # hello-world
 
-Siemanko !
+Hi!
 
-Zaczynam tutorial!
+I've just started with GitHub
