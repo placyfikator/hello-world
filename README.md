@@ -1,2 +1,5 @@
 # hello-world
-tutorial
+
+Siemanko !
+
+Zaczynam tutorial!
