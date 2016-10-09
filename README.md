@@ -1,2 +1,5 @@
 # hello-world
-tutorial
+
+Hi!
+
+I've just started with GitHub
